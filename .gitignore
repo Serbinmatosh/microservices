@@ -7,6 +7,6 @@
 /fraud/target/
 /notification/target/
 
-.idea
+.idea/
 *.iml
 *.iws
