@@ -6,3 +6,7 @@
 /eureka-server/target/
 /fraud/target/
 /notification/target/
+
+.idea/
+*.iml
+*.iws
